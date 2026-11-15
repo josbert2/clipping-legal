@@ -1,0 +1,6 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><title>Volviendo a ClippingTV…</title><link rel="stylesheet" href="estilo.css">
+<main><p>Volviendo a ClippingTV…</p><p>Si no pasa nada, abre ClippingTV en este computador y pega esta URL en Cuentas.</p></main>
+<script>
+// TikTok exige un redirect https: esta página reenvía la respuesta al ClippingTV local.
+location.replace('http://localhost:4530/api/tiktok/callback' + location.search)
+</script></html>

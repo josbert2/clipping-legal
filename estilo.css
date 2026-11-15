@@ -1,0 +1,5 @@
+body{margin:0;font:16px/1.6 system-ui,sans-serif;background:#0f0f12;color:#e8e8ee}
+main{max-width:760px;margin:0 auto;padding:48px 24px}
+a{color:#a58bff}h1{font-size:32px;margin:16px 0}h2{font-size:20px;margin-top:32px}
+header{display:flex;align-items:center;gap:12px}header img{width:44px;height:44px;border-radius:10px}
+footer{margin-top:48px;font-size:14px;color:#9a9aa8}
